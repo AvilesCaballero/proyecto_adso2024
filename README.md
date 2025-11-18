@@ -8,7 +8,6 @@
 <body>
   <h2>Lista de aprendices</h2>
   <ol>
-    <li> Mi nombre </li>
     <li> Joshua Jafeth Aviles Caballero </li>
   </ol>
 </body>
